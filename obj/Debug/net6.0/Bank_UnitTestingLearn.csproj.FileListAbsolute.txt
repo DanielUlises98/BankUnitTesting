@@ -1,0 +1,15 @@
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\bin\Debug\net6.0\Bank_UnitTestingLearn.exe
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\bin\Debug\net6.0\Bank_UnitTestingLearn.deps.json
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\bin\Debug\net6.0\Bank_UnitTestingLearn.runtimeconfig.json
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\bin\Debug\net6.0\Bank_UnitTestingLearn.dll
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\bin\Debug\net6.0\Bank_UnitTestingLearn.pdb
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\Bank_UnitTestingLearn.csproj.AssemblyReference.cache
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\Bank_UnitTestingLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\Bank_UnitTestingLearn.AssemblyInfoInputs.cache
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\Bank_UnitTestingLearn.AssemblyInfo.cs
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\Bank_UnitTestingLearn.csproj.CoreCompileInputs.cache
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\Bank_UnitTestingLearn.dll
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\refint\Bank_UnitTestingLearn.dll
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\Bank_UnitTestingLearn.pdb
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\Bank_UnitTestingLearn.genruntimeconfig.cache
+C:\Users\mendo\source\repos\Bank_UnitTestingLearn\obj\Debug\net6.0\ref\Bank_UnitTestingLearn.dll
